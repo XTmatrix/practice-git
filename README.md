@@ -1,3 +1,3 @@
 # Hello World
-Hello world respository for Git Tutorial
 
+Hello world repository for Git Tutorial
